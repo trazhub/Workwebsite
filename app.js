@@ -41,5 +41,5 @@ app.get("/work",function(req,res){
 
 
 app.listen(3000,function(){
-    console.log("[🎒] Server Running At http://localhost:3000");
+    console.log("[🎒] Server https://sparkly-bublanina-293686.netlify.app");
 })
