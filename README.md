@@ -5,5 +5,5 @@
 
 ```
 npm i
-npm start
+node .
 ```
